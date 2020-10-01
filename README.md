@@ -1,5 +1,15 @@
 ## VJ_540_GCU Read me:
 
+
+## TOPIC 4 INSTRUCTION:
+
+RUN FILE: johansen_van_topic_4.ipynb or johansen_van_topic_4.html 
+
+ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
+
+DATA: Generated in first cells (no dependencies) 
+
+
 ## TOPIC 3 INSTRUCTION:
 
 RUN FILE: johansen_van_topic_3.ipynb or johansen_van_topic_3.html 
