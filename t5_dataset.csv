@@ -1,0 +1,15 @@
+Index,Temp,Wind,Traffic,Car
+1,hot,weak,long,no
+2,hot,strong,long,no
+3,hot,weak,long,yes
+4,mild,weak,long,yes
+5,cool,weak,short,yes
+6,cool,strong,short,no
+7,cool,strong,short,yes
+8,mild,weak,long,no
+9,cool,weak,short,yes
+10,mild,weak,short,yes
+11,mild,strong,short,yes
+12,mild,strong,long,yes
+13,hot,weak,short,yes
+14,mild,strong,long,no
