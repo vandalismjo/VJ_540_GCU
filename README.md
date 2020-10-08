@@ -1,5 +1,13 @@
 ## VJ_540_GCU Read me:
 
+## TOPIC 5 INSTRUCTION:
+
+RUN FILE: johansen_van_topic_5.ipynb or johansen_van_topic_5.html 
+
+ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
+
+DATA: pulled from csv file: 't5_dataset.csv' 
+
 
 ## TOPIC 4 INSTRUCTION:
 
