@@ -1,8 +1,8 @@
 ## VJ_540_GCU Read me:
 
-## TOPIC 5 INSTRUCTION:
+## TOPIC 6 INSTRUCTION:
 
-RUN FILE: johansen_van_topic_5.ipynb or johansen_van_topic_5.html 
+RUN FILE: johansen_van_topic_6.ipynb or johansen_van_topic_6.html 
 
 ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
 
