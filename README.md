@@ -1,5 +1,16 @@
 ## VJ_540_GCU Read me:
 
+
+## TOPIC 7 INSTRUCTION:
+
+RUN FILE: johansen_van_topic_7.ipynb or johansen_van_topic_7.html 
+
+ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
+
+DATA: pulled from Kaggle: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+
+
 ## TOPIC 6 INSTRUCTION:
 
 RUN FILE: johansen_van_topic_6.ipynb or johansen_van_topic_6.html 
