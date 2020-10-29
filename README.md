@@ -7,7 +7,8 @@ RUN FILE: johansen_van_topic_8.ipynb or johansen_van_topic_8.html
 
 ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
 
-DATA: File - subject101.dat
+DATA: File - https://archive.ics.uci.edu/ml/machine-learning-databases/00231/ 
+    protocol/subject101.dat
 
 
 
