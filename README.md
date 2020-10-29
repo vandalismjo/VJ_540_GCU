@@ -1,6 +1,16 @@
 ## VJ_540_GCU Read me:
 
 
+## TOPIC 8 INSTRUCTION:
+
+RUN FILE: johansen_van_topic_8.ipynb or johansen_van_topic_8.html 
+
+ALL DEPENDENCIES AND LIBRARIES ARE IN FIRST CELL
+
+DATA: File - subject101.dat
+
+
+
 ## TOPIC 7 INSTRUCTION:
 
 RUN FILE: johansen_van_topic_7.ipynb or johansen_van_topic_7.html 
